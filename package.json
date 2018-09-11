@@ -1,10 +1,10 @@
 {
-  "author": "whyrusleeping",
+  "author": "yozgatsi",
   "bugs": {
-    "url": "https://github.com/libp2p/go-libp2p-pubsub"
+    "url": "https://github.com/dms3-p2p/go-p2p-pubsub"
   },
   "gx": {
-    "dvcsimport": "github.com/libp2p/go-libp2p-pubsub"
+    "dvcsimport": "github.com/dms3-p2p/go-p2p-pubsub"
   },
   "gxDependencies": [
     {
@@ -17,8 +17,7 @@
   "gxVersion": "1.1.1",
   "language": "go",
   "license": "MIT",
-  "name": "go-libp2p-pubsub",
+  "name": "go-p2p-pubsub",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
   "version": "0.1.1"
 }
-
